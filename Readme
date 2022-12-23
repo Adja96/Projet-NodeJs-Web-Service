@@ -1,0 +1,14 @@
+#installer nodejs
+#Creer un dossier nommé : nom_du_projet ici my_nodejs_service
+#Creer le fichier package.json avec
+#npm istall
+#Installer le framework express pour gerer les requetes http
+#nmp install express
+#Ajouter un script start au fichier package.json
+#"scripts": {
+  "start": "node server.js"
+}
+#Crrer un fichier server.js à la racine du projet
+#Executer le commande 
+#npm start
+#Acceder au lien localhost:port ici localhost:8080
